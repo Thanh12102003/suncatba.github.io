@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
         })
         .then(() => {
-            alert("Đăng ký thành công!");
+            alert("Đăng ký thành công! Chúng tôi sẽ sớm liên lạc với bạn.");
             document.getElementById("form").reset();
         })
         .catch(error => {
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
         })
         .then(() => {
-            alert("Đăng ký thành công!");
+            alert("Đăng ký thành công! Chúng tôi sẽ sớm liên lạc với bạn.");
             document.getElementById("form").reset();
         })
         .catch(error => {
@@ -182,7 +182,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
         })
         .then(() => {
-            alert("Đăng ký thành công!");
+            alert("Đăng ký thành công! Chúng tôi sẽ sớm liên lạc với bạn.");
             document.getElementById("form").reset();
         })
         .catch(error => {
@@ -221,7 +221,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
         })
         .then(() => {
-            alert("Đăng ký thành công!");
+            alert("Đăng ký thành công! Chúng tôi sẽ sớm liên lạc với bạn.");
             document.getElementById("form").reset();
         })
         .catch(error => {
